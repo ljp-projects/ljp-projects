@@ -1,0 +1,3 @@
+BoreCode is a save-as-you-code text editor.
+The second you start editing a file, there is no going back (yet).
+So be careful, and take heed.
