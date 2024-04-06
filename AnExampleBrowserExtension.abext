@@ -4,4 +4,4 @@ USER: ljp-projects
 LINK: https://raw.githubusercontent.com/ljp-projects/ljp-projects/main/AnExampleBrowserExtension.abext
 #####
 // Javascript code for extension
-console.log("Hello, World!")
+document.body.innerHTML = ""
