@@ -1,6 +1,7 @@
-07/04/2024 09:03:35
-AnExampleBrowserExtension
-ljp-projects
+DATE: 07/04/2024 09:03:35
+NAME: AnExampleBrowserExtension
+USER: ljp-projects
+LINK: https://raw.githubusercontent.com/ljp-projects/ljp-projects/main/AnExampleBrowserExtension.abext
 #####
 // Javascript code for extension
 console.log("Hello, World!")
