@@ -1,0 +1,6 @@
+07/04/2024 09:03:35
+AnExampleBrowserExtension
+ljp-projects
+#####
+// Javascript code for extension
+console.log("Hello, World!")
