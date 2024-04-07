@@ -1,8 +1,6 @@
 name: Example Extension
 author(s): Jane Doe
 applies-to: /^\w+:\/\/.+\.com/
-needs-global-scope: true
-run-async: false
 ------
 // JavaScript code is required
 document.body.innerHTML = ""
