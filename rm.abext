@@ -2,7 +2,6 @@ name: Example Extension
 author(s): Jane Doe
 applies-to: ^\w+:\/\/.+\.com.+
 ------
-// JavaScript code is required
 document.body.innerHTML = ""
 ------
 This is my REQUIRED description
