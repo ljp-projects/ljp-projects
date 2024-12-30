@@ -10,5 +10,3 @@ I make little side projects in a diverse range of programming and scripting lang
 I have also made a programming language too! It is called TeaScript, and is located [here](https://github.com/ljp-projects/TeaScript). I wrote it in Kotlin, but previously it was in TypeScript.
 
 I have been programming for about 1 year, and started with JavaScript.
-
-<sub>I am 12 years old btw</sub>
